@@ -15,3 +15,6 @@ function name(){
     console.log(result);
 }
 name();
+var msg = "Hello world"
+var text = "Welcome"+msg+ "to javascript"
+alert(msg)
